@@ -25,7 +25,7 @@ int main()
 	printf("\nMang nguon truoc khi sao chep: ");
 	Mangin(m_a, size);
 	
-	printf("Mang dich truoc khi sao chep: ");
+	printf("\nMang dich truoc khi sao chep: ");
 	Mangin(n_a, size);
 	
 	
